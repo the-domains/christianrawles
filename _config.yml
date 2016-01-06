@@ -1,0 +1,28 @@
+name: christianrawles
+favicon: null
+layout_spectrum: 0.4498159128706902
+typography_spectrum: 0.46424059639684856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.06230614008381963
+  lightness: 0.5672361257020384
+  saturation: 0.01526391739025712
+  rhythmicContrast: 0.9820119112264365
+purpose: []
